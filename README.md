@@ -1,6 +1,6 @@
 # React Boilerplate
 
-This is a simple Boilerplate which serves as a starting point for creating React apps using `webpack`, `webpack-dev-server` and `sass` featuring ES6.
+This is a simple Boilerplate which serves as a starting point for creating React apps using `webpack`, `webpack-dev-server`, `sass`, `babel` and `babel presets` for `react` and `ES6/7`.
 
 ### Start
 
