@@ -9,7 +9,8 @@
   "babel": {
     "presets": [
       "env",
-      "react"
+      "react",
+      "stage-1"
     ]
   },
   "author": "",
